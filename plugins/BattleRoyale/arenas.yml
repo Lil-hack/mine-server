@@ -1,0 +1,39 @@
+Arenas:
+  Main:
+    ChestsCounter: 2
+    Chests:
+      '1':
+        X: 47.32231962741711
+        Y: 18.0
+        Z: 79.48481052157048
+        World: Main
+        Pitch: 45.899994
+        Yaw: 85.34973
+    Signs:
+      Counter: 0
+    Lobby:
+      Spawn:
+        X: 458.6797506158543
+        Y: 31.0
+        Z: -501.82537416015305
+        World: fort
+        Pitch: 7.3501153
+        Yaw: -357.5995
+    Spawns:
+      Counter: 2
+      '1':
+        X: 56.86091608665558
+        Y: 187.61273787961395
+        Z: 70.88459253081994
+        World: Main
+        Pitch: 76.949974
+        Yaw: 86.549866
+  List:
+  - Main
+LobbySpawn:
+  X: 458.6797506158543
+  Y: 31.0
+  Z: -501.82537416015305
+  World: fort
+  Pitch: 7.3501153
+  Yaw: -357.5995

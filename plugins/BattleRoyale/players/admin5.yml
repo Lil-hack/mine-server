@@ -1,0 +1,9 @@
+wins: 0
+deaths: 2
+kills: 0
+dead: false
+lobby: false
+ingame: true
+Main:
+  kills: 0
+  deaths: 2

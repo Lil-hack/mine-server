@@ -1,0 +1,33 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+    - modifyworld.*
+schema-version: 1
+users:
+  1590b9cf-1f58-3d6c-95c7-a9063e802254:
+    permissions:
+    - modifyworld.*
+    options:
+      name: admin8
+  d02d23f4-4f3f-3e0a-88ca-30de1bf80c81:
+    permissions:
+    - modifyworld.*
+    options:
+      name: admin7
+  36881d51-7477-3eb6-91a1-dfc11065590d:
+    permissions:
+    - modifyworld.*
+    options:
+      name: admin
+  8a5a26fe-7107-339e-b029-548dae7f7535:
+    permissions:
+    - modifyworld.*
+    options:
+      name: admin2
+  12d388f7-b983-34dd-a797-6863b0e810ba:
+    permissions:
+    - modifyworld.*
+    options:
+      name: admin3
