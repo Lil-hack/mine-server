@@ -97,7 +97,7 @@ Deagle:
         Dual_Wield: true
         Cancel_Left_Click_Block_Damage: true
         Cancel_Right_Click_Interactions: true
-        Delay_Between_Shots: 2
+        Delay_Between_Shots: 3
         Recoil_Amount: 2
         Projectile_Amount: 1
         Projectile_Type: egg
@@ -229,7 +229,7 @@ Riotshield:
         Projectile_Amount: 1
         Projectile_Type: arrow
         Projectile_Speed: 200
-        Projectile_Damage: 18
+        Projectile_Damage: 16
         Sounds_Shoot: BLAZE_HIT-1-1-0,EXPLODE-1-2-0
     Custom_Death_Message:
         Normal: "&e<victim> was sniped by <shooter>'s Hunting Rifle!"
@@ -249,7 +249,7 @@ Riotshield:
         Sound_Close: PISTON_EXTEND-1-2-0
     Headshot:
         Enable: true
-        Bonus_Damage: 6
+        Bonus_Damage: 2
         Sounds_Shooter: NOTE_PLING-1-2-0
         Sounds_Victim: VILLAGER_DEATH-1-1-0
     Abilities:
@@ -282,7 +282,7 @@ Olympia:
         Cancel_Right_Click_Interactions: true
         Delay_Between_Shots: 3
         Recoil_Amount: 5
-        Projectile_Amount: 8
+        Projectile_Amount: 10
         Projectile_Type: egg
         Removal_Or_Drag_Delay: 4-false
         Projectile_Speed: 30
@@ -362,7 +362,7 @@ Hunting:
         Sound_Close: PISTON_EXTEND-1-2-0
     Headshot:
         Enable: true
-        Bonus_Damage: 12
+        Bonus_Damage: 6
         Sounds_Shooter: NOTE_PLING-1-2-0
         Sounds_Victim: VILLAGER_DEATH-1-1-0
     Abilities:

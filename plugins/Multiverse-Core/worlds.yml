@@ -10,7 +10,7 @@ worlds:
     respawnWorld: ''
     allowWeather: 'true'
     difficulty: PEACEFUL
-    spawning: &id057
+    spawning: &id061
       ==: MVSpawnSettings
       animals:
         ==: MVSpawnSubSettings
@@ -22,7 +22,7 @@ worlds:
         spawn: 'false'
         spawnrate: '-1'
         exceptions: []
-    entryfee: &id058
+    entryfee: &id062
       ==: MVEntryFee
       amount: '0.0'
       currency: '-1'
@@ -32,7 +32,7 @@ worlds:
     portalForm: ALL
     gameMode: SURVIVAL
     keepSpawnInMemory: 'true'
-    spawnLocation: &id059
+    spawnLocation: &id063
       ==: MVSpawnLocation
       x: 50.0
       y: 18.0
@@ -41,7 +41,7 @@ worlds:
       yaw: 0.0
     autoLoad: 'true'
     bedRespawn: 'true'
-    worldBlacklist: &id060 []
+    worldBlacklist: &id064 []
     environment: NORMAL
     seed: '227290'
     generator: 'null'
@@ -106,18 +106,18 @@ worlds:
     respawnWorld: ''
     allowWeather: 'true'
     difficulty: PEACEFUL
-    spawning: *id057
-    entryfee: *id058
+    spawning: *id061
+    entryfee: *id062
     hunger: 'true'
     autoHeal: 'true'
     adjustSpawn: 'true'
     portalForm: ALL
     gameMode: SURVIVAL
     keepSpawnInMemory: 'true'
-    spawnLocation: *id059
+    spawnLocation: *id063
     autoLoad: 'true'
     bedRespawn: 'true'
-    worldBlacklist: *id060
+    worldBlacklist: *id064
     environment: NORMAL
     seed: '227290'
     generator: 'null'
