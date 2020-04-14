@@ -1,8 +1,8 @@
-wins: 2
+wins: 3
 deaths: 0
-kills: 2
+kills: 3
 dead: false
 lobby: true
 ingame: false
 Main:
-  kills: 0
+  kills: 1
