@@ -1,0 +1,1 @@
+"C:\Program Files\Java\jre1.8.0_231\bin\java.exe" -Xmx1G -Dfile.encoding=UTF-8 -jar spigot-1.12.2.jar
