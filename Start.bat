@@ -1,1 +1,9 @@
-"C:\Program Files\Java\jre1.8.0_231\bin\java.exe" -Xmx1G -Dfile.encoding=UTF-8 -jar spigot-1.12.2.jar
+:loop
+echo Loop
+
+tasklist /FI "IMAGENAME eq java.exe" 2>NUL | find /I /N "java.exe">NUL
+if "%ERRORLEVEL%"=="0" (echo Program is running) else (START /b Run.bat)
+
+
+timeout /t 30
+goto loop
