@@ -36,12 +36,6 @@
     "bypassesPlayerLimit": false
   },
   {
-    "uuid": "8a5a26fe-7107-339e-b029-548dae7f7535",
-    "name": "admin2",
-    "level": 4,
-    "bypassesPlayerLimit": false
-  },
-  {
     "uuid": "12d388f7-b983-34dd-a797-6863b0e810ba",
     "name": "admin3",
     "level": 4,

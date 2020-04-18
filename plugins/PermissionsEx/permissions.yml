@@ -41,3 +41,8 @@ users:
     - modifyworld.*
     options:
       name: '33'
+  6efbc46e-7233-3b0e-a671-7fe22f0c6d38:
+    permissions:
+    - modifyworld.*
+    options:
+      name: admin233
