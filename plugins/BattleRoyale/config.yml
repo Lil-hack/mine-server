@@ -3,11 +3,11 @@
 # # |           Battle Royale Configuration file           | #
 # # +------------------------------------------------------+ #
 # ############################################################
-Potion:
-  Potion1: 10.0
-  Potion2: 20.0
 Main:
   Countdown: 15
   MaxPlayers: 20
   AutoStartPlayers: 10
   EndTime: 900
+Potion:
+  Potion1: 10.0
+  Potion2: 20.0
